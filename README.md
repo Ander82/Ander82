@@ -8,7 +8,7 @@
 
 <div>
  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=Ander82&show_icons=true&theme=ocean_dark"></>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ander82&layout=ocean_dark"></>
+ <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ander82&layout=ocean_dark"></>
  
 </div>
 

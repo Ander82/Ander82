@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-bandeira-250b311a3/)  
 
 <div>
-<a href="beacons.ai/Ander82"></a>
+<a href="https://github.com/Ander82/Ander82/blob/main/README.md"></a>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ander82&show_icons=true&theme=ocean_dark"></>
  <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ander82&layout=compact"></>
  

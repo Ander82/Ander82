@@ -10,6 +10,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ander82&show_icons=true&theme=highcontrast)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ander82&layout=ocean_dark)
+
+
 ### Tecnologias que utilizo...
 
 

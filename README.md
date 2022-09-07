@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ander82&layout=ocean_dark)
 
 
-### Tecnologias que utilizo...
+### Principais Tecnologias...
 
 
 <div>
